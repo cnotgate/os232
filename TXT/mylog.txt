@@ -18,3 +18,5 @@ ZCZC W01 10 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W01 15 L03 GitHub related
 ZCZC W01 5 L04 GitHub Pages related
 ZCZC W01 5 L41 TXT/mylog.txt related.
+ZCZC W01 15 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W01 10 L23 Bash, Regex, SED, AWK.
