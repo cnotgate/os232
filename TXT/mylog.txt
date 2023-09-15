@@ -2,6 +2,7 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List https://osp4diss.vlsm.org/ETC/logCodes.txt
 
+ZCZC W02 5 L26 GnuPG, key-gen, encrypt/decrypt.
 ZCZC W02 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W02 10 L26 GnuPG, key-gen, encrypt/decrypt.
 ZCZC W02 15 L27 SSH, key-gen, tunneling, putty, winscp
