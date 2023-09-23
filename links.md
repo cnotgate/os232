@@ -13,5 +13,12 @@ Basic linux commands. Important to memorize.
 3. [OS Cheat Sheet](https://www.geeksforgeeks.org/last-minute-notes-operating-systems/)<br>
 A brief summary of OS concepts. Basically a cheat sheet.
 
+4. [Introduction to Linux Filesystems](https://opensource.com/life/16/10/introduction-linux-filesystems)<br>
+A very brief summary for linux filesystem. Provides the high-level concept only, a good starting point.
+
+5. [Shell Scripting for Beginner](https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux/)<br>
+A well written tutorial about bash scripting. Covers all you need to know about scripting to get you started.
+
+
 <br>
 <hr>
