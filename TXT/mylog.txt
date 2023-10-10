@@ -2,6 +2,11 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List https://osp4diss.vlsm.org/ETC/logCodes.txt
 
+ZCZC W05 25  L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W05 5   L03 GitHub related
+ZCZC W05 60  L22 Linux CLI including tar, etc.
+ZCZC W05 80  L15 Assignment #05
+ZCZC W05 70  L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W04 60  L22 Linux CLI including tar, etc.
 ZCZC W04 60  L14 Assignment #04
 ZCZC W04 100 L06 References/Books/Documents/Browsing/GSGS related

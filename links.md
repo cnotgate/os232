@@ -19,6 +19,9 @@ A very brief summary for linux filesystem. Provides the high-level concept only,
 5. [Shell Scripting for Beginner](https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux/)<br>
 A well written tutorial about bash scripting. Covers all you need to know about scripting to get you started.
 
+6. [Paging in Operating System](https://www.geeksforgeeks.org/paging-in-operating-system/)
+
+7. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
 
 <br>
 <hr>
