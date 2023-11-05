@@ -23,5 +23,9 @@ A well written tutorial about bash scripting. Covers all you need to know about 
 
 7. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
 
+8. [Why Do We Need the fork System Call to Create New Processes?](https://www.baeldung.com/linux/fork-child-process)
+
+9. [https://linuxhint.com/fork-system-call-linux/](https://linuxhint.com/fork-system-call-linux/)
+
 <br>
 <hr>
