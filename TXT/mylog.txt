@@ -2,6 +2,10 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List https://osp4diss.vlsm.org/ETC/logCodes.txt
 
+ZCZC W07 40  L17 Assignment #07
+ZCZC W07 5   L03 GitHub related
+ZCZC W07 20  L22 Linux CLI including tar, etc.
+ZCZC W07 5   L41 TXT/mylog.txt related.
 ZCZC W06 5   L41 TXT/mylog.txt related.
 ZCZC W06 35  L22 Linux CLI including tar, etc.
 ZCZC W06 5   L03 GitHub related

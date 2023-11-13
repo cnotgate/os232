@@ -27,5 +27,9 @@ A well written tutorial about bash scripting. Covers all you need to know about 
 
 9. [https://linuxhint.com/fork-system-call-linux/](https://linuxhint.com/fork-system-call-linux/)
 
+10. [Deadlock in OS](https://www.scaler.com/topics/operating-system/deadlock-in-os/)
+
+11. [What are Semaphores in Operating Systems?](https://byjus.com/gate/semaphores-in-operating-system-notes/#:~:text=Cons%20of%20Semaphores-,What%20are%20Semaphores%20in%20Operating%20Systems%3F,signal%2C%20for%20the%20process%20synchronization.)
+
 <br>
 <hr>
