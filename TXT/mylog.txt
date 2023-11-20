@@ -2,6 +2,9 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List https://osp4diss.vlsm.org/ETC/logCodes.txt
 
+ZCZC W08 100 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W08 120 L22 Linux CLI including tar, etc.
+ZCZC W08 180 L18 Assignment #08
 ZCZC W07 40  L17 Assignment #07
 ZCZC W07 5   L03 GitHub related
 ZCZC W07 20  L22 Linux CLI including tar, etc.
