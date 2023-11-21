@@ -31,5 +31,7 @@ A well written tutorial about bash scripting. Covers all you need to know about 
 
 11. [What are Semaphores in Operating Systems?](https://byjus.com/gate/semaphores-in-operating-system-notes/#:~:text=Cons%20of%20Semaphores-,What%20are%20Semaphores%20in%20Operating%20Systems%3F,signal%2C%20for%20the%20process%20synchronization.)
 
+12. [Linux From Scratch (LFS) --- Step by Step with VirtualBox](https://lfs.vlsm.org/)
+
 <br>
 <hr>
