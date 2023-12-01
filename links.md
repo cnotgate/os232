@@ -33,5 +33,7 @@ A well written tutorial about bash scripting. Covers all you need to know about 
 
 12. [Linux From Scratch (LFS) --- Step by Step with VirtualBox](https://lfs.vlsm.org/)
 
+13. [IO in OS](https://www.geeksforgeeks.org/i-o-hardware-in-operating-system/)
+
 <br>
 <hr>
